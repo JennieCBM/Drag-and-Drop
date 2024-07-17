@@ -360,6 +360,10 @@ footer .creado-por {
   color: grey;
 }
 
+.container-plugin {
+  padding: 0 1rem 1rem 1rem;
+}
+
 /* Responsive */
 
 @media screen and (max-width: 700px) {
